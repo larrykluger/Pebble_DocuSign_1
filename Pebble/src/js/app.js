@@ -20,7 +20,7 @@ var sendToken = function(token, oauth) {
   var request = new XMLHttpRequest();
   request.open('POST', API_ROOT + '&/senduserpin/' + token + '/' + oauth, true); // send the user's timeline token and Slice oauth token to our server
   request.onload = function() {
-    console.log('senduserpin server response: ' + request.responseText);
+    console.log('senduserpin server response!!: ' + request.responseText);
   };
   request.send();
 }
