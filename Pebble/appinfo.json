@@ -11,7 +11,10 @@
     "watchface": false
   },
   "appKeys": {
-    "dummy": 0
+      "pkg_1": 0,
+      "pkg_2": 1,
+      "pkg_3": 2,
+      "pkg_count": 3
   },
   "resources": {
     "media": []
