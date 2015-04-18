@@ -1,0 +1,19 @@
+{
+  "uuid": "ed47f828-afdb-406f-b762-6c9d92bfc248",
+  "shortName": "DocuSign Tracker",
+  "longName": "DocuSign Tracker",
+  "companyName": "DocuSign",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
